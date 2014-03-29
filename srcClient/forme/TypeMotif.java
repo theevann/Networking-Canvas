@@ -1,0 +1,5 @@
+package forme;
+
+public enum TypeMotif {
+	LIGNEDROITE, RECTANGLE, CERCLE, FEUTRE, TEXTE, SELECTION, DEPLACER
+}
