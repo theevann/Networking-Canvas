@@ -1,8 +1,8 @@
-﻿Toile-Virtuelle
-===============
+Virtual Networked Canvas
+========================
 
-Projet d'informatique (Java) - Dessin en réseau sur une "toile"
+Computer Science project at Mines Paristech
+Coded in Java
+Program that allows multiple clients to connect to a local server and draw together on a virtual canvas
 
-You can have a look and make any comments / This project is personnal and already finished. 
-Develloped in January-March 2013. 
-Commited on Github on 30/03/2014.
+Developed in January-March 2013.
